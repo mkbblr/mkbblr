@@ -1,7 +1,7 @@
 # Mriganka Kumar Borthakur
 - I'm proficient in golang, c, c++ (qt+qml)
 - I know make, qmake, shell(sh,bash,zsh)
-- I've used aws services like iam, lambda, apigw, s3, sns, sqs, ecs, cdk, awscli, cfn
+- I've used AWS services like IAM, Lambda, API Gateway, S3, SNS, SQS, ECS to develop cloud native solutions
 - I'm currently learning a little bit of java
 - I fiddle with html, css, js, react once in a while, but keep forgetting it time and again.
 - I've tinkered with Python, php, Java, autoit, NSIS, Delphi(Object Pascal), ... and what not !!! 
